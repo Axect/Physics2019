@@ -1,0 +1,46 @@
+# Plan (Amount) {#plan_amount}
+
+* Term description
+    * pw - (per week)
+    * pd - (per day)
+
+## Common
+
+* **Topic in Physical Mathematics**
+    - Amount: 378 pages, 11 chapters
+    - Duration: 2/7 ~ 6/26 (140 days, 20 weeks)
+    - **3pd / 20pw**
+
+## TG
+
+* **General Principles in Quantum Field Theory**
+    - Amount: 625 pages, 16 chapters
+    - Duration: 2/7 ~ 6/26 (140 days, 20 weeks)
+    - **5pd / 32pw**
+
+* **Introduction to Gauge Field Theory**
+    - Amount: 345 pages, 17 chapters
+    - Duration: 2/7 ~ 4/31 (82 days, 11 weeks)
+    - **5pd / 31pw**
+
+* **Relativity on Curved Manifolds**
+    - Amount: 430 pages, 11 chapters
+    - Duration: 2/7 ~ 6/26 (140 days, 20 weeks)
+    - **4pd / 22pw**
+
+## YJ
+
+* **Symmetries and Group Theory in Particle Physics**
+    - Amount: 212 pages, 9 chapters
+    - Duration: 2/7 ~ 6/26 (140 days, 20 weeks)
+    - **2pd / 11pw**
+
+* **A Modern Introduction to Quantum Field Theory**
+    - Amount: 265 pages, 11 chapters
+    - Duration: 2/7 ~ 4/31 (82 days, 11 weeks)
+    - **4pd / 24pw**
+
+* **Lectures on Cosmology**
+    - Amount: 178 pages, 4 chapters
+    - Duration: 2/7 ~ 4/31 (82 days, 11 weeks)
+    - **5pd / 16pw**

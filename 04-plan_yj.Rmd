@@ -1,0 +1,51 @@
+# YJ's Schedule
+
+## Feburary
+
+### No Pilates (Tue, Wed, Fri)
+
+Time | Subject
+:---: | :------:
+06:00 | Wake-up
+07:00 | Take a bus
+07:30 | Mac-morning
+08:20 | In Lab
+22:30 | Leave out Yonsei
+25:00 | Must sleep
+
+* Total study time: 13 hours
+* Study time: 8 hours
+* Work time: 5 hours
+
+### Pilates (Mon, Thu)
+
+Time | Subject
+:---: | :------:
+06:00 | Wake-up
+07:00 | Take a bus
+07:30 | Mac-morning
+08:20 | In Lab
+17:30 | Leave out Yonsei
+21:00 | Re-start study
+25:00 | Must sleep
+
+* Total study time: 12 hours
+* Study time: 7 hours
+* Work time: 5 hours
+
+### Gimpo (Sat)
+
+Time | Subject
+:---: | :------:
+08:20 | Wake-up
+09:30 | Take a bus
+10:40 | Starbucks
+12:00 | Lunch
+13:20 | Caffe
+20:00 | Go to SC2
+24:00 | Come back home
+25:00 | Must sleep
+
+* Total study time: 8 hours
+* Study time: 4 hours
+* Work time: 4 hours

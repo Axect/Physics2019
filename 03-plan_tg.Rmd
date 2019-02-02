@@ -1,0 +1,70 @@
+# TG's Schedule
+
+## Feburary
+
+### No Academy (Tue)
+
+Time | Subject
+:---: | :------:
+05:30 | Wake-up
+06:10 | Take a bus
+07:30 | Mac-morning
+08:20 | In Lab
+22:30 | Leave out Yonsei
+25:00 | Must sleep
+
+* Total study time: 13 hours
+* Study time: 8 hours
+* Work time: 5 hours
+
+### Academy (Mon)
+
+Time | Subject
+:---: | :------:
+05:30 | Wake-up
+06:10 | Take a bus
+07:30 | Mac-morning
+08:20 | In Lab
+16:30 | Leave out Yonsei
+18:00 | Academy
+20:40 | Gym
+23:00 | Home
+25:00 | Must sleep
+
+* Total study time: 9 hours
+* Study time: 5 hours
+* Work time: 4 hours
+
+### Academy (Wed)
+
+Time | Subject
+:---: | :------:
+05:30 | Wake-up
+06:10 | Take a bus
+07:30 | Mac-morning
+08:20 | In Lab
+16:30 | Leave out Yonsei
+18:00 | Academy
+22:40 | Gym
+24:00 | Home
+25:00 | Must sleep
+
+* Total study time: 8 hours
+* Study time: 4 hours
+* Work time: 4 hours
+
+### Teaching (Sat)
+
+Time | Subject
+:---: | :------:
+08:20 | Wake-up
+09:00 | Starbucks
+10:00 | Teaching
+13:20 | In Caffe
+20:00 | Go to SC2
+24:00 | Come back home
+25:00 | Must sleep
+
+* Total study time: 8 hours
+* Study time: 4 hours
+* Work time: 4 hours

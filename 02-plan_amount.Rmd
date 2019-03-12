@@ -6,17 +6,46 @@
 
 ## Common
 
+* **Collider Physics within the Standard Model**
+    - Amount: 158 pages, 3 chapters
+    - Duration: 3/18 ~ 6/30 (105 days, 15 weeks)
+    - **2pd / 11pw**
+
+* **Introduction to Differential Manifolds and Riemannian Geometry** (for exam)
+    - Amount: 175 pages, 3 chapters (3 ~ 5)
+    - Duration: 3/18 ~ 6/7 (82days, 11 weeks)
+    - **3pd / 16pw**
+
+## TG
+
+* **General Principles in Quantum Field Theory** (1/4)
+    - Amount: 230/625 pages, 5/16 chapters
+    - Duration: 3/18 ~ 6/30 (105 days, 15 weeks)
+    - **3pd / 16pw**
+
+* **Classical Electrodynamics** (1/2)
+    - Amount: 275/550 pages, 13/25 chapters
+    - Duration: 3/18 ~ 6/7 (82 days, 11 weeks)
+    - **4pd / 25pw**
+
+## YJ
+
+* **Lecture Notes in Cosmology**
+    - Amount: 55-378 pages, 3-11 chapters
+    - Duration: 3/18 ~ 6/30 (105 days, 15 weeks)
+    - **3pd / 22pw**
+
+* **Topology**
+    - Amount: 291 pages, 12 chapters
+    - Duration: 3/18 ~ 6/30 (105 days, 15 weeks)
+    - **3pd / 20pw**
+
+## Candidates
+
 * **Topic in Physical Mathematics**
     - Amount: 378 pages, 11 chapters
     - Duration: 2/7 ~ 6/26 (140 days, 20 weeks)
     - **3pd / 20pw**
-
-## TG
-
-* **General Principles in Quantum Field Theory**
-    - Amount: 625 pages, 16 chapters
-    - Duration: 2/7 ~ 6/26 (140 days, 20 weeks)
-    - **5pd / 32pw**
 
 * **Introduction to Gauge Field Theory**
     - Amount: 345 pages, 17 chapters
@@ -27,8 +56,6 @@
     - Amount: 430 pages, 11 chapters
     - Duration: 2/7 ~ 6/26 (140 days, 20 weeks)
     - **4pd / 22pw**
-
-## YJ
 
 * **Symmetries and Group Theory in Particle Physics**
     - Amount: 212 pages, 9 chapters

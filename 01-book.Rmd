@@ -1,23 +1,34 @@
 # Book {#book}
 
-## Mathematical Physics
+## Functional Analysis
 
-* Kishore Marathe, *Topics in Physical Mathematics* <font color="blue">(Common)</font>
 * Bogolubov et al, *General Principles in Quantum Field Theory* <font color="green">(Tae Geun)</font>
 
 ## Particle Physics
 
-* Giovanni Costa, Gianluigi Fogli, *Symmetries and Group Theory in Particle Physics* <font color="#fc07bf">(Yeji)</font>
-
-## Quantum Field Theory
-
-* D. Bailin, A. Love, *Introduction to Gauge Field Theory* <font color="green">(Tae Geun)</font>
-* Michele Maggiore, *A Modern Introduction to Quantum Field Theory* <font color="#fc07bf">(Yeji)</font>
+* Guido Altarelli, *Collider Physics within the Standard Model* <font color="blue">(Common)</font>
 
 ## Cosmology
 
-* Georg Wolschin (Editor), *Lectures on Cosmology* <font color="#fc07bf">(Yeji)</font>
+* Oliver Piattella, *Lecture Notes in Cosmology* <font color="orange">(Yeji)</font>
 
-## General Relativity
+## Classical Electrodynamics
 
-* F. De Felice, C. J. S. Clarke, *Relativity on Curved Manifolds* <font color="green">(Tae Geun)</font>
+* Greiner, *Classical Electrodynamics* <font color="green">(Tae Geun)</font>
+
+## Differential Geometry
+
+* Boothby, *An Introduction to Differential Manifolds and Riemannian Geometry* <font color="blue">(Common)</font>
+
+## Topology
+
+* Munkres, *Topology* <font color="orange">(Yeji)</font>
+
+## Candidates
+
+* Kishore Marathe, *Topics in Physical Mathematics* <font color="grey">(Candidate)</font>
+* Giovanni Costa, Gianluigi Fogli, *Symmetries and Group Theory in Particle Physics* <font color="grey">(Candidate)</font>
+* D. Bailin, A. Love, *Introduction to Gauge Field Theory* <font color="grey">(Candidate)</font>
+* Michele Maggiore, *A Modern Introduction to Quantum Field Theory* <font color="grey">(Candidate)</font>
+* Georg Wolschin (Editor), *Lectures on Cosmology* <font color="grey">(Candidate)</font>
+* F. De Felice, C. J. S. Clarke, *Relativity on Curved Manifolds* <font color="grey">(Candidate)</font>
